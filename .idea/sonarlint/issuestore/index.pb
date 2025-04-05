@@ -9,3 +9,7 @@ S
 #contracts/patient-registration.clar,d/3/d3b132c989f0b713f6f5fb391cae2cc586338474
 R
 "tests/patient-registration.test.ts,2/5/254e6d377ca412c1f84104069fca0531e0c43eeb
+P
+ contracts/trip-coordination.clar,f/c/fc307bacded3a298cd1683acd96133d1ad45bbaf
+O
+tests/trip-coordination.test.ts,8/7/87ac246ec481614d7db61a079a2c45cf63a8439d

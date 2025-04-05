@@ -13,3 +13,7 @@ P
  contracts/trip-coordination.clar,f/c/fc307bacded3a298cd1683acd96133d1ad45bbaf
 O
 tests/trip-coordination.test.ts,8/7/87ac246ec481614d7db61a079a2c45cf63a8439d
+S
+#contracts/vehicle-verification.clar,4/e/4e9b89e7dd12e28763260a0a44684938eb5aeca2
+R
+"tests/vehicle-verification.test.ts,e/0/e092d9b537ad01b66a6dbde85bb221ff2c00cb6b
